@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    const char * greeting = "Hello, world!";
+    const char * greeting = "Hello, gitpod!";
     if (puts(greeting) == EOF)
         exit(EXIT_FAILURE);
     return EXIT_SUCCESS;
